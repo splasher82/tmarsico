@@ -1,18 +1,15 @@
-💻 Technology ➕ 🌎 Travel ➕ 🏀 Basketball ➕ 🎣 Fishing ➕ 🍷 Wines ➕🎮 Gaming
-⌨ Technical Leader | Innovator | Team Development | AWS
+💻 Technology ➕ 🌎 Travel ➕ 🏀 Basketball ➕ 🎣 Fishing ➕ 🍷 Wines ➕ 🎮 Gaming
+⌨ Technical Leader | Innovator | Team Development | AWS | Azure
 🌴 Florida 🌴
 
-Conceive, design, and deliver innovative software architectures by driving cost-effective, multi-tiered, high-performance IoT embedded and cloud software solutions across industries, including smart home environments, smart naval automation systems, airport and ground transportation services.
+A top-performing Engineering Leader with a demonstrated track record in leading global engineering initiatives and enabling people & business success with key focus on Software Development & Strategy, Team Development, Solutions Architecture, System Architecture, Go-to-Market Strategy, MVP and UI/UX & Mobile Applications. Effective people leader able to build global, high performing and engaged teams that deliver breakthrough results.
 
-Effective people leader able to create and empower high performing and engaged global teams for delivering breakthrough results. Develop strong client relationships using interpersonal communication skills.
+Cloud & IT expertise 
 
-Cloud & IT expertise and AWS Solutions Architecture certification.
-
-Languages: Python | ANSI C (RTOS) | C++ 11 (Linux & Win32) | C# | UML | SQL | Bash Script | PowerShell script
+Languages: Python | C#  .NET | C++ (Linux & Win32) | | UML | SQL | Bash Script | PowerShell script | ANSI C (RTOS/Linux) 
 
 Specialties
-- Internet-of-Things (IoT) | Digital Transformation | Smart Medical Devices | Vehicle Tracking Systems | Smart Home Appliance | Smart Naval Automation System
-- Embedded Software | Full-Stack Web-Development | Mobile Application Development | Object Oriented Programming (OOP) | Object Oriented Analysis and Design (OODA) | Software Development Management | Cybersecurity |
-- Programming | Algorithm | Service Oriented Architecture (SOA) | Micro Service Architecture | REST Architecture | GraphQL | Full-Stack Web-Development
+- Clound Infrastrucuture | Internet-of-Things (IoT) | Digital Transformation | Intelligent Buildings | Smart Home Appliances | Smart Naval Automation System
+- DevOps | Web-Development | Mobile Applications | Software Development Management | Security Embedded Software | 
 - Agile Methodologies | Scrum | Lean | Kanban
-- RTOS | Linux | Android | IOS | Windows
+- macOS | Android | iOS | Windows | RTOS | Linux 
